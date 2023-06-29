@@ -4,3 +4,11 @@ openai
 tiktoken
 jupyter notebook
 google-api-python-client
+huggingface_hub
+pypdf
+google-search-results
+newspaper3k
+requests
+pyllamacpp==1.0.7
+sentencepiece
+gpt4all
