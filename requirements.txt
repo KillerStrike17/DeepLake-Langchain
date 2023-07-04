@@ -12,3 +12,13 @@ requests
 pyllamacpp==1.0.7
 sentencepiece
 gpt4all
+pyvis
+faiss-cpu
+selenium
+unstructured
+spacy
+scikit-learn
+scipy
+matplotlib
+sentence_transformers
+cohere
