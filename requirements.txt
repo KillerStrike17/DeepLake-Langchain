@@ -22,3 +22,7 @@ scipy
 matplotlib
 sentence_transformers
 cohere
+yt_dlp
+audio_recorder_streamlit
+elevenlabs
+streamlit-chat
